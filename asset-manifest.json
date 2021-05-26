@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zzhalex.github.io/csb-rnb0b/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zzhalex.github.io/csb-rnb0b/static/js/main.292c09f7.chunk.js",
+    "main.js.map": "https://zzhalex.github.io/csb-rnb0b/static/js/main.292c09f7.chunk.js.map",
+    "runtime-main.js": "https://zzhalex.github.io/csb-rnb0b/static/js/runtime-main.034a7f90.js",
+    "runtime-main.js.map": "https://zzhalex.github.io/csb-rnb0b/static/js/runtime-main.034a7f90.js.map",
+    "static/js/2.aa6fa5f2.chunk.js": "https://zzhalex.github.io/csb-rnb0b/static/js/2.aa6fa5f2.chunk.js",
+    "static/js/2.aa6fa5f2.chunk.js.map": "https://zzhalex.github.io/csb-rnb0b/static/js/2.aa6fa5f2.chunk.js.map",
+    "index.html": "https://zzhalex.github.io/csb-rnb0b/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zzhalex.github.io/csb-rnb0b/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.aa6fa5f2.chunk.js.LICENSE.txt": "https://zzhalex.github.io/csb-rnb0b/static/js/2.aa6fa5f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.034a7f90.js",
+    "static/js/2.aa6fa5f2.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.292c09f7.chunk.js"
+  ]
+}
